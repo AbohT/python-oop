@@ -68,5 +68,4 @@ std_2 = Cohort3Web2('Mary', 'Anum', 24, True)
 print(std_1.fullname())
 #std_1.fullname()
 print(Cohort3Web2.fullname(std_1))
-#The two lines above do the same thing however, the first is an instance of the class and takes no argument in parenthesis, but the second is the class followed by the methods(functions). Methods of a class always requires an instance (self) while attributes do not'''
-
+#The two lines above do the same thing however, the first is an instance of the class and takes no argument in parenthesis, but the second is the class followed by the methods(functions). Methods of a class always requires an instance (self) while attributes do not
